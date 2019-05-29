@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\ПОВТОРЕНИЕ\Reader_Text\Reader_Text_DB\bin\Debug\Reader_Text_DB.dll
+C:\Users\User\source\repos\ПОВТОРЕНИЕ\Reader_Text\Reader_Text_DB\bin\Debug\Reader_Text_DB.pdb
+C:\Users\User\source\repos\ПОВТОРЕНИЕ\Reader_Text\Reader_Text_DB\obj\Debug\Reader_Text_DB.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ПОВТОРЕНИЕ\Reader_Text\Reader_Text_DB\obj\Debug\Reader_Text_DB.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ПОВТОРЕНИЕ\Reader_Text\Reader_Text_DB\obj\Debug\Reader_Text_DB.dll
+C:\Users\User\source\repos\ПОВТОРЕНИЕ\Reader_Text\Reader_Text_DB\obj\Debug\Reader_Text_DB.pdb

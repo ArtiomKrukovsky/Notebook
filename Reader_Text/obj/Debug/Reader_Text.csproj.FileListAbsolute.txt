@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\ПОВТОРЕНИЕ\Reader_Text\Reader_Text\bin\Debug\Reader_Text.exe.config
+C:\Users\User\source\repos\ПОВТОРЕНИЕ\Reader_Text\Reader_Text\bin\Debug\Reader_Text.exe
+C:\Users\User\source\repos\ПОВТОРЕНИЕ\Reader_Text\Reader_Text\bin\Debug\Reader_Text.pdb
+C:\Users\User\source\repos\ПОВТОРЕНИЕ\Reader_Text\Reader_Text\obj\Debug\Reader_Text.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ПОВТОРЕНИЕ\Reader_Text\Reader_Text\obj\Debug\Reader_Text.Main.resources
+C:\Users\User\source\repos\ПОВТОРЕНИЕ\Reader_Text\Reader_Text\obj\Debug\Reader_Text.Properties.Resources.resources
+C:\Users\User\source\repos\ПОВТОРЕНИЕ\Reader_Text\Reader_Text\obj\Debug\Reader_Text.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ПОВТОРЕНИЕ\Reader_Text\Reader_Text\obj\Debug\Reader_Text.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ПОВТОРЕНИЕ\Reader_Text\Reader_Text\obj\Debug\Reader_Text.exe
+C:\Users\User\source\repos\ПОВТОРЕНИЕ\Reader_Text\Reader_Text\obj\Debug\Reader_Text.pdb
+C:\Users\User\source\repos\ПОВТОРЕНИЕ\Reader_Text\Reader_Text\bin\Debug\Reader_Text_DB.dll
+C:\Users\User\source\repos\ПОВТОРЕНИЕ\Reader_Text\Reader_Text\bin\Debug\Reader_Text_DB.pdb
+C:\Users\User\source\repos\ПОВТОРЕНИЕ\Reader_Text\Reader_Text\obj\Debug\Reader_Text.csproj.CopyComplete
